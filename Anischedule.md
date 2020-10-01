@@ -4,11 +4,11 @@ This is an implementation of [TehNut](https://github.com/TehNut)'s work [Anische
 A Feature that uses the <a href = 'https://anilist.co'>AniList</a> API to retrieve the airing schedule for configured anime and sends a message when a new episode has aired.<br><br>
 
 # Contents
-- [Preparing the bot and your server](#Preparing-the-bot-and-your-server)
-- [Adding more to the List](#Adding-more-to-the-list)
-- [Removing anime from the list](#Removing-anime-from-the-list)
-- [Viewing the watchlist](#Viewing-the-watchlist)
-- [F.A.Q.s](#FAQs)
+- [Preparing the bot and your server](#-Preparing-the-bot-and-your-server)
+- [Adding more to the List](#-Adding-more-to-the-list)
+- [Removing anime from the list](#-Removing-anime-from-the-list)
+- [Viewing the watchlist](#-Viewing-the-watchlist)
+- [F.A.Q.s](#-FAQs)
 <br><br><br>
 ## 🔗 Preparing the bot and your server
 Before you start everything, make sure Mai has the necessary Permissions [`SEND_MESSAGES`,`EMBED_LINKS`] so that announcements are sent on a set channel. If you are self-hosting the bot, make sure you set the `client#enableDatabase` to true and that you have a valid Mongo DB account and you have set it in `client#mongoPassword` in the client constructor. The whole Anischedule Feature will not work without it. This is because the bot uses the MongoDB as it's primary database -> where the anime schedules are stored per server. <br><br>
