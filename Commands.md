@@ -47,7 +47,7 @@ Command | Parameters | Description | Example
 `manga`       | Query (Character Name) | Queries Manga on [MyAnimeList](https://myanimelist.net). Returns up to 10 results | `m!manga <Seishun Buta>`
 `mangarandom` | None | Sends a totally random anime | `m!mangarandom`
 `nextairdate` | Query (Anime Title) | Sends the next episode's airdate if a query is provided, or returns the next three airing episodes | `m!nextairdate <Seishun Buta Yarou>`
-`sauce`       | ID (6 digit ID) | NSFW WARNING!| Grabs the doujin Information based on the provided ID | `m!sauce [5 or 6-digit number]`
+`sauce`       | ID (6 digit ID) | NSFW WARNING! Grabs the doujin Information based on the provided ID | `m!sauce [5 or 6-digit number]`
 `schedule`    | Query (Day of the week) | Returns the provided weekday's anime schedule, or today if none is provided | `m!schedule <Tuesday>`
 `seiyuu`      | Query (Seiyuu Name) | Queries Voice Actress on [AniList](https://anilist.co) to get VA's basic Information | `m!seiyuu <Amamiya Sora>`
 `waifu`       | None | Generate random waifu image | `m!waifu`
