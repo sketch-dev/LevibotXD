@@ -2,6 +2,7 @@ This is an implementation of [TehNut](https://github.com/TehNut)'s work [Anische
 
 <h2>A Special Mai Bot Feature that notifies you when a new anime episode has aired</h2>
 A Feature that uses the <a href = 'https://anilist.co'>AniList</a> API to retrieve the airing schedule for configured anime and sends a message when a new episode has aired.<br><br>
+<img src = 'https://media.discordapp.net/attachments/728866550207086642/761214812553871360/unknown.png'>
 
 # Contents
 - [Preparing the bot and your server](#-Preparing-the-bot-and-your-server)
