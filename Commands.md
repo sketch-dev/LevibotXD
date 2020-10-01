@@ -55,32 +55,82 @@ Command | Parameters | Description | Example
 [Back to top](#Contents)
 <br><br><br>
 ## Bot
+Command | Parameters | Description | Example
+--------|------------|-------------|--------
+`feedback` | Feedback Message | Sends a feedback directly to Sakurajimai#6742's inbox | `m!feedback [economy not working pls help]`
+`invite`   | None             | Sends the bot's invite link, support server link, the server's link (if previously set up), and/or Advertised server link | `m!invite`
+`ping`     | None             | Sends various ping of the bot | `m!ping`
+`stats`    | None             | Sends the bot's current status | `m!stats`
+
 [Back to top](#Contents)
 <br><br><br>
 ## Core
+Command | Parameters | Description | Example
+--------|------------|-------------|--------
+`cmd`           | Command Category | Sends the list of commands under selected category | `m!cmd [core]`
+`help`          | Command Name | Sends the command information for the provided command name | `m!help <rank>`
+`leaderboard`   | None | Sends the server xp leaderboard [Server and Channel Must be xp enabled] | `m!leaderboard`
+`mai`           | None | Sends a random Mai Image
+`nonxpchannels` | None | Displays the list of channels where xp is disabled [Server must be xp enabled] | `m!nonxpchannels`
+`rank`          | User Mention | Displays own / mentioned user's server xp ranking [Server and channel must be xp enabled] | `m!rank <@User Mention>`
+`suggest`       | Suggestion Message | Send a suggestion for the server [Requires a set suggest channel] | `m!suggest [add an emoji channel!]`
+`watching`      | None | Sends the list of anime under the server's [Anischedule Feature](https://github.com/maisans-maid/Mai/wiki/Anischedule) (if enabled) | `m!watching`
+
 [Back to top](#Contents)
 <br><br><br>
 ## Economy
+Command | Parameters | Description | Example
+--------|------------|-------------|--------
+
+
 [Back to top](#Contents)
 <br><br><br>
 ## Fun
+Command | Parameters | Description | Example
+--------|------------|-------------|--------
+
+
 [Back to top](#Contents)
 <br><br><br>
 ## Moderation
+Command | Parameters | Description | Example
+--------|------------|-------------|--------
+
+
 [Back to top](#Contents)
 <br><br><br>
 ## Owner
+Command | Parameters | Description | Example
+--------|------------|-------------|--------
+
+
 [Back to top](#Contents)
 <br><br><br>
 ## Setup
+Command | Parameters | Description | Example
+--------|------------|-------------|--------
+
+
 [Back to top](#Contents)
 <br><br><br>
 ## Utility
+Command | Parameters | Description | Example
+--------|------------|-------------|--------
+
+
 [Back to top](#Contents)
 <br><br><br>
 # Extra Commands
 ## Archive
+Command | Description | Archive Reason |
+--------|-------------|----------------|
+
+
 [Back to top](#Contents)
 <br><br><br>
 ## Removed
+Command | Description | Removal Reason |
+--------|-------------|----------------|
+
+
 [Back to top](#Contents)
