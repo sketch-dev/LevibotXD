@@ -7,7 +7,7 @@ This Wiki is designed to help you use Mai Discord Bot to it's full potential. Pl
 <a href = 'https://github.com/maisans-maid/Mai/wiki/Anischedule'> <img src = "https://i.imgur.com/4u4nt4g.png" height="120" alt="Anischedule Features"> </a><br>
 Know about the powerful Anischedule feature, what it does, and how to set one up.
 <br><br><br><br>
-<a href = 'https://github.com/maisans-maid/Mai/wiki/Command'> <img src = "https://i.imgur.com/VhCt3A1.png" height="120" alt="Commands"> </a><br>
+<a href = 'https://github.com/maisans-maid/Mai/wiki/Commands'> <img src = "https://i.imgur.com/VhCt3A1.png" height="120" alt="Commands"> </a><br>
 View the full available list of commands for Mai
 <br><br><br><br>
 <a href = 'https://github.com/maisans-maid/Mai/wiki/Economy'> <img src = "https://i.imgur.com/YmbfJ36.png" height="120" alt="Economy Features"> </a><br>
