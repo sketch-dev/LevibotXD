@@ -75,10 +75,10 @@ Command | Parameters | Description | Example
 ## Setup
 [Back to top](#Contents)
 <br><br><br>
-# Extra Commands
 ## Utility
 [Back to top](#Contents)
 <br><br><br>
+# Extra Commands
 ## Archive
 [Back to top](#Contents)
 <br><br><br>
