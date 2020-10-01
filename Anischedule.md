@@ -13,9 +13,9 @@ A Feature that uses the <a href = 'https://anilist.co'>AniList</a> API to retrie
 <br><br><br>
 ## 🔗 Preparing the bot and your server
 Before you start everything, make sure Mai has the necessary Permissions [`SEND_MESSAGES`,`EMBED_LINKS`] so that announcements are sent on a set channel. If you are self-hosting the bot, make sure you set the `client#enableDatabase` to true and that you have a valid Mongo DB account and you have set it in `client#mongoPassword` in the client constructor. The whole Anischedule Feature will not work without it. This is because the bot uses the MongoDB as it's primary database -> where the anime schedules are stored per server. <br><br>
-### 1. Use the `setanisched` command and pass in the desired `announcement channel` as the first parameter.<br>
-###### Usage: `m!anisched [text-based-channel]` <br>
-###### Example: `m!anisched #anime-airing` <br>
+### 1. Use the `setanischedch` command and pass in the desired `announcement channel` as the first parameter.<br>
+###### Usage: `m!setanischedch [text-based-channel]` <br>
+###### Example: `m!setanischedch #anime-airing` <br>
 To be able to do this, you will need to have the administrator permission. This will let the bot know where to announce the anime once it's episode has started airing. Make sure the mentioned channel is accessible by the bot (`READ_MESSAGE` perms is enabled) and allows the bot to write messages on that channel.
 <br><br>
 ### 2. Search for currently airing anime you wanted to keep track of (via browser or the m!anime command), grab the link, use the `m!watch` command and pass the copied URL as the parameter.<br>
