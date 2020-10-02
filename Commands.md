@@ -218,3 +218,6 @@ Command | category | Description | Removal Reason | Status |
 
 
 [Back to top](#Contents)
+<br><br><br>
+
+### 🔗 [Go back to Home](https://github.com/maisans-maid/Mai/wiki)
