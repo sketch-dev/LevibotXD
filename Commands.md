@@ -202,6 +202,7 @@ Command | Description | Archive Reason | Location |
 [Back to top](#Contents)
 <br><br><br>
 ## Removed
+Removed Commands are [v2.4.0](https://github.com/maisans-maid/Mai/tree/2.4.0) commands that haven't made its way to the 3.0.0 (latest) update because of some various reasons. They are either WIP (Work-in-Progress) or will be entirely forgotten.
 Command | category | Description | Removal Reason |
 --------|-------------|----------------|----------|
 `anitop` | anime | returns the top anime based on provided category (all-time, current-season)(Movie, TV, OVA) | Currently Broken (v3.0.0)
