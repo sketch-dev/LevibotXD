@@ -194,10 +194,10 @@ Command | Parameters | Description | Example
 <br><br><br>
 # Extra Commands
 ## Archive
-Command | Description | Archive Reason |
---------|-------------|----------------|
-`djs` | Query the discord.js documentation | Not Usable by normal users
-`quiz` | A fun quiz game for the server | Currently Broken
+Command | Description | Archive Reason | Location |
+--------|-------------|----------------| ---------|
+`djs` | Query the discord.js documentation | Not Usable by normal users | [Here](https://github.com/maisans-maid/Mai/blob/master/commands/archive/djs.js)
+`quiz` | A fun quiz game for the server | Currently Broken | [Here](https://github.com/maisans-maid/Mai/blob/master/commands/archive/quiz.js)
 
 [Back to top](#Contents)
 <br><br><br>
