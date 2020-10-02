@@ -203,15 +203,15 @@ Command | Description | Archive Reason | Location |
 <br><br><br>
 ## Removed
 Removed Commands are [v2.4.0](https://github.com/maisans-maid/Mai/tree/2.4.0) commands that haven't made its way to the 3.0.0 (latest) update because of some various reasons. They are either WIP (Work-in-Progress) or will be entirely forgotten.
-Command | category | Description | Removal Reason |
---------|-------------|----------------|----------|
-`anitop` | anime | returns the top anime based on provided category (all-time, current-season)(Movie, TV, OVA) | Currently Broken (v3.0.0)
-`nsfw` | anime | Generates a random nsfw image based on the given criteria | No reason at all, just felt it doesn't fit with the bot
-`studio` | anime | returns some of the anime the provided studio has made | Unused command, API Heavy command (Calls on API multiple times to satisfy command conditions)
-`backdoor` | owner | Allows the bot owner to enter the server the bot is in without the consent of the Server Owner | Violates Discord ToS
-`execute` | owner | Executes a specific [Discord.js Event](https://discord.js.org/#/docs/main/stable/class/Client?scrollTo=e-channelCreate) | Useless Command
-`automessage` | setup | Create a custom Welcome, Goodbye message for the server | Currently Broken (v3.0.0)
-`whois` | utility | Grabs the user information using ID even if the user is not in the server | Violates Discord ToS. Replaced with `[userinfo](#Utilitiy)` command
+Command | category | Description | Removal Reason | Status |
+--------|-------------|----------------|----------|--------|
+`anitop` | anime | returns the top anime based on provided category (all-time, current-season)(Movie, TV, OVA) | Currently Broken (v3.0.0) | 🛠️ WIP
+`nsfw` | anime | Generates a random nsfw image based on the given criteria | No reason at all, just felt it doesn't fit with the bot | ☠️
+`studio` | anime | returns some of the anime the provided studio has made | Unused command, API Heavy command (Calls on API multiple times to satisfy command conditions) | ☠️
+`backdoor` | owner | Allows the bot owner to enter the server the bot is in without the consent of the Server Owner | Violates Discord ToS | ☠️
+`execute` | owner | Executes a specific [Discord.js Event](https://discord.js.org/#/docs/main/stable/class/Client?scrollTo=e-channelCreate) | Useless Command | ☠️
+`automessage` | setup | Create a custom Welcome, Goodbye message for the server | Currently Broken (v3.0.0) | 🛠️ WIP
+`whois` | utility | Grabs the user information using ID even if the user is not in the server | Violates Discord ToS. Replaced with `[userinfo](#Utilitiy)` command | ☠️
 
 
  - All of the music command from the previous version, [2.4.0](https://github.com/maisans-maid/Mai/tree/2.4.0/commands/music), has been removed due to the hosting limitations of the bot. These commands, however, are almost complete (for the latest version) but will never be pushed unless the bot gets a proper hosting service. If you forked the latest (3.0.0) version and want to use the music feature, feel free to open an issue. I will create a branch for it if someone is interested once it is complete.
