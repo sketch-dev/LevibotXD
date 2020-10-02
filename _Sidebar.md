@@ -1,3 +1,4 @@
+<img src = 'https://files.catbox.moe/lha6ok.png' align='center'>
 Hello! This is the Wiki for Mai Bot made for users to easily interact with the bot. You may click the link below to navigate through the wiki easily.
 ***
 - [Anischedule](https://github.com/maisans-maid/Mai/wiki/Anischedule)
