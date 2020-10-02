@@ -16,6 +16,7 @@ Learn the mechanics and configuration of Mai's Economy Feature
 <a href = 'https://github.com/maisans-maid/Mai/wiki/XP'> <img src = "https://i.imgur.com/vTXWIAj.png" height='150' alt="Experience Points Features"> </a><br>
 Know about the Implementation of Experience Points by Mai
 <br><br><br><br>
-##Miscellaneous
+
+## Miscellaneous
 - [Self-hosting Mai Bot](https://github.com/maisans-maid/Mai/wiki/SelfHost)
 - [Planned Features](https://github.com/maisans-maid/Mai/wiki/Upcoming)
