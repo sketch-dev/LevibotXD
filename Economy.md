@@ -26,8 +26,7 @@ Earning Currency from this bot isn't that hard, but the way to earn it isn't a l
 
 Before you are able to use these commands properly, you will have to need a [wallet](#Wallet). You will also need to have a [bank](#Banking) to prevent currency [overflow](#Overflow)
 
-<br><br><br>
-
+<br><br><br><br>
 ### Transferring
 You can transfer your currency around, from your wallet to bank (depositing), bank to wallet (withdrawing), and even bank to another bank (transferring).
 - When you transfer currency from your wallet to the bank, you will need to pay for an additional 5% of the amount to be deposited (e.g. depositing 100 requires you to have 105 on your wallet).
@@ -46,7 +45,7 @@ As of the moment, there has been no way to spend money yet (Except betting and p
 ### Banking
 
 br><br><br><br>
-### Wallet Overflow
+### Overflow
 
 <br><br><br><br>
 ### Wallet
