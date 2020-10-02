@@ -97,8 +97,28 @@ Command | Parameters | Description | Example
 ## Fun
 Command | Parameters | Description | Example
 --------|------------|-------------|--------
-
-
+`8ball`   | Question | Ask the magic 8ball a question | `m!8ball [Is the Solo Levelling going to be adapted soon?]`
+`advice`  | None | Ask Mai for a random advice | `m!advice`
+`birdfact`| None | Generate a random fact about the birds | `m!birdfact`
+`catfact` | None | Generate a random fact about the cats | `m!catfact`
+`comment` | Comment | Replicate YouTube comment scenario | `m!comment [this bot is too good!]`
+`dogfact` | None | Generate a random fact about the dogs | `m!dogfact`
+`flip`    | Tails / Head | Flips a coin | `m!flip tails`
+`fortune` | None | Ask Mai for a random fortune | `m!fortune`
+`horoscope` | Horoscope sign | View your daily horoscope | `m!horoscope libra`
+`invert`  | User Mention | Inverts the avatar of the mentioned user | `m!invert [@User]`
+`joke`    | None | Generate a joke. I mean, this command is a joke in itself. | `m!joke`
+`meme`    | None | Generate a meme. | `m!meme`
+`pandafact` | None | Generate a random fact about the pandas | `m!pandafact`
+`pokemon` | pokemon | Get the pokedex entry of the pokemon provided | `m!pokemon` <Pikachu>
+`rate`    | Item | Get your random item appraised | `m!rate [Excalibur]`
+`respect` | Someone / Something you paid respect to | Pay your respects to someone / something | `m!respect <Hachiko statue>`
+`reverse` | Random Text | Reverses the supplied text | `m!reverse [This text will be reversed]`
+`roll`    | Maximum Number | Rolls a number from 0 to the provided maximum number | `m!roll <100>`
+`ship`    | User Mention | Finds ship percentage between you and the mentioned user, both of the mentioned user, or find out in the whole server whom you're most compatible with | `m!ship <@User> <@User>`
+`triggered` | User Mention | Returns with a triggered avatar Gif out of the mentioned user's avatar | `m!triggered @User`
+`wasted`  | User Mention | returns with a wasted image out of the mentioned user's avatar | `m!wasted @User`
+ 
 [Back to top](#Contents)
 <br><br><br>
 ## Moderation
