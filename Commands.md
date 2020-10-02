@@ -85,7 +85,7 @@ Command | Parameters | Description | Example
 `bank`     | None   | Register yourself to the bank (If you don't have a bank yet) | `m!bank`
 `beg`      | None   | Beg for some coins. Don't let pride get in your way to get rich! | `m!beg`
 `daily`    | None   | Get daily reward from Mai. Remember to keep your streak for increased rewards | `m!daily`
-`deposit`  | Amount | Deposit some of your money to the bank (If you have a bank) to prevent [overflow](https://github.com/maisans-maid/Mai/wiki/Economy#WalletOverflow) | `m!deposit [15000]`
+`deposit`  | Amount | Deposit some of your money to the bank (If you have a bank) to prevent [overflow](https://github.com/maisans-maid/Mai/wiki/Economy#Overflow) | `m!deposit [15000]`
 `find`     | None   | Find some coins around | `m!find`
 `register` | None   | Register yourself to the Economy System for free! | `m!register`
 `transfer` | None   | Transfer some of your coins to your friend. Both parties have to be registered to a bank! | `m!transfer [@User] [50000]`
