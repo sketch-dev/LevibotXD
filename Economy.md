@@ -63,12 +63,13 @@ A special feature this Economy system has is the Overflow. This is put in place 
 - You will not lose coins when withdrawing amount when in overflow. You will simply receive an error message.
 - Overflow is not cooldown based, meaning unless you free up your wallet, you will not be able to receive wallet-reliant services.
 <br>
+
 To prevent Wallet Overflow, free up your wallet by transferring some of your wallet credits to your [bank](#Banking)
 <br><br>
 [Back to top](#mai-economy-currently-features)
 <br><br><br><br>
 ### Wallet
-
+Wallet is your primary coin storage in Mai's economy system. After registering to the economy system, you'll receive a random amount from Mai to fill up your newly acquired wallet. This wallet can only hold 20,000 coins though, so you will need to have a bank. In case you earn more than what your wallet can hold, it will cause your credits to [overflow](#Overflow).
 <br><br>
 [Back to top](#mai-economy-currently-features)
 <br><br><br><br>
