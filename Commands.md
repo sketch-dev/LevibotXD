@@ -175,19 +175,19 @@ Command | Parameters | Description | Example
 ## Utility
 Command | Parameters | Description | Example
 --------|------------|-------------|--------
-`avatar`
-`color`
-`define`
-`emoji`
-`jisho`
-`listrole`
-`lyrics`
-`permissionsfor`
-`reddit`
-`serverinfo`
-`steam`
-`time`
-`userinfo`
+`avatar` | User Mention | Displays the avatar of the Mentioned User, or yours if no parameter is provided | `m!avatar <@User>`
+`color` | Hex code | Display the color of the provided hex code, or random color if no parameter is provided | `m!color <#f0f0f0>`
+`define` | Word | Searches for the definition of the word from Urban Dictionary | `m!define <Bot>`
+`emoji` | Custom Emoji | Gives a bigger image version of the provided custom emoji | `m!emoji <Custom Emoji>`
+`jisho` | Word | Searches for the definition of the japanese word (hiragana, katakana, kanji, romaji accepted) | `m!jisho < 二人 >`
+`listrole` | None | Lists all the role the server has based on permissions | `m!listrole`
+`lyrics` | Song Title | Gives the lyrics of the provided song title | `m!lyrics <Kimi no Sei Romanized>`
+`permissionsfor` | User Mention | Gives the permissions the mentioned user has on the server | `m!permissionsfor [@User]`
+`reddit` | Subreddit | Grabs a random image from the given subreddit | `m!reddit <animemes>`
+`serverinfo` | None | Gives the server information | `m!serverinfo`
+`steam` | Game Title | Gives the information about the game from the [steam](https://store.steampowered.com) library | `m!steam <doki doki literature club>`
+`time` | City | Gives the current time of the mentioned City | `m!time <Tokyo>`
+`userinfo` | User Mention | Gives the user information of the mentioned user | `m!userinfo <@User>`
 
 
 [Back to top](#Contents)
