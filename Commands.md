@@ -116,15 +116,28 @@ Command | Parameters | Description | Example
 `reverse` | Random Text | Reverses the supplied text | `m!reverse [This text will be reversed]`
 `roll`    | Maximum Number | Rolls a number from 0 to the provided maximum number | `m!roll <100>`
 `ship`    | User Mention | Finds ship percentage between you and the mentioned user, both of the mentioned user, or find out in the whole server whom you're most compatible with | `m!ship <@User> <@User>`
-`triggered` | User Mention | Returns with a triggered avatar Gif out of the mentioned user's avatar | `m!triggered @User`
-`wasted`  | User Mention | returns with a wasted image out of the mentioned user's avatar | `m!wasted @User`
+`triggered` | User Mention | Returns with a triggered avatar Gif out of the mentioned user's avatar | `m!triggered <@User>`
+`wasted`  | User Mention | returns with a wasted image out of the mentioned user's avatar | `m!wasted <@User>`
  
 [Back to top](#Contents)
 <br><br><br>
 ## Moderation
 Command | Parameters | Description | Example
 --------|------------|-------------|--------
-
+`addemoji` | Image URL and Emoji Name | Adds an emoji to your server out of the given image url | `m!addemoji [https://some-useful.image/image.png] <eg_smile>`
+`addroles` | Role IDs / Role Mention and User Mention | Adds the mentioned roles to the mentioned user | `m!addroles [@User] [@Role] <@Role> <@Role> ...`
+`ban` | User Mention | Bans the user from the server | `m!ban [@User]`
+`clear` | Number of Messages to be deleted (Max. 99) | Deletes the messages from the channel if the message is less than 14 days old based on the supplied number | `m!clear [50]`
+`hackban` | User ID | Bans a user from the server even if the user is not on that server | `m!ban [627381928370453681]` 
+`kick` | User Mention | Kicks the user out of the server | `m!kick [@User]`
+`lockdown` | None | Prevent/Allow users from messaging in the current channel. Note that this resets all the permissions for the channel | `m!lockdown`
+`mute` | User Mention | Mutes a user (gives the user the set mutedrole, see [setmutedrole](#Setup)) | `m!mute [@User]`
+`nuke` | None | Removes all the messages from the channel (Clones the channel and deletes the original) | `m!nuke`
+`removeroles` | User Mention | Removes all the roles the User has | `m!removeroles [@User]`
+`respond` | Message ID, Accept/Deny, Reason | Responds to a user's suggestion. This requires to have the server's suggest option enabled, see [setsuggestch](#Setup) and [suggest](#Core)
+`softban` | User Mention | Kicks the user and deletes all his messages from the server | `m!softban [@User]`
+`unban` | User ID | Unbans any banned member from the server | `m!unban [627381928370453681]`
+`unmute` | User Mention | Unmutes a user (removes the set mutedrole from the user, see [setmutedrole](#Setup)) | `m!unmute [@User]` 
 
 [Back to top](#Contents)
 <br><br><br>
