@@ -167,9 +167,9 @@ Command | Parameters | Description | Example
 `xpreset` | None | Resets the XP System for the server. see [XP](https://github.com/maisans-maid/Mai/wiki/XP) | `m!xpreset` 
 `xptoggle` | None | Toggles the XP System on / off for the server. see [XP](https://github.com/maisans-maid/Mai/wiki/XP) | `xptoggle`
 
-[More info on Anischedule Section of the Wiki](https://github.com/maisans-maid/Mai/wiki/Anisched)
-[More info on Economy Section of the Wiki](https://github.com/maisans-maid/Mai/wiki/Economy)
-[More info on XP Section of the Wiki](https://github.com/maisans-maid/Mai/wiki/XP)
+[More info on Anischedule Section of the Wiki](https://github.com/maisans-maid/Mai/wiki/Anisched)<br>
+[More info on Economy Section of the Wiki](https://github.com/maisans-maid/Mai/wiki/Economy)<br>
+[More info on XP Section of the Wiki](https://github.com/maisans-maid/Mai/wiki/XP)<br>
 [Back to top](#Contents)
 <br><br><br>
 ## Utility
