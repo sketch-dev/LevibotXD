@@ -17,7 +17,7 @@ Before you start everything, make sure Mai has the necessary Permissions [`SEND_
 ###### Usage: `m!setanischedch [text-based-channel]` <br>
 ###### Example: `m!setanischedch #anime-airing` <br>
 <img src = 'https://media.discordapp.net/attachments/728866550207086642/761479727713484830/unknown.png' ><br>
-To be able to do this, you will need to have the administrator permission. This will let the bot know where to announce the anime once it's episode has started airing. Make sure the mentioned channel is accessible by the bot (`READ_MESSAGE` perms is enabled) and allows the bot to write messages on that channel.
+To be able to do this, you will need to have the administrator permission. This will let the bot know where to announce the anime once it's episode has started airing. Make sure the mentioned channel is accessible by the bot (`READ_MESSAGE` perms is enabled) and allows the bot to write messages on that channel. It is recommended you create a dedicated channel (Only Mai has access to `SEND_MESSAGES` permissions) so that announcement aren't buried along with the ongoing conversation.
 <br><br>
 ### 2. Search for currently airing anime you wanted to keep track of (via browser or the m!anime command), grab the link, use the `m!watch` command and pass the copied URL as the parameter.<br>
 ###### Usage: `m!watch [anime URL]` <br>
