@@ -62,6 +62,7 @@ A special feature this Economy system has is the Overflow. This is put in place 
 - If you have full amount of what the wallet can hold (20,000), you lose the ability to receive daily rewards, find, and beg credits.
 - You will not lose coins when withdrawing amount when in overflow. You will simply receive an error message.
 - Overflow is not cooldown based, meaning unless you free up your wallet, you will not be able to receive wallet-reliant services.
+<br>
 To prevent Wallet Overflow, free up your wallet by transferring some of your wallet credits to your [bank](#Banking)
 <br><br>
 [Back to top](#mai-economy-currently-features)
