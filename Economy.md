@@ -42,6 +42,8 @@ You can transfer your currency around, from your wallet to bank (depositing), ba
 <br><br><br><br>
 ### Betting
 A not-so-reliable way of earning coins in the Mai Economy. The Betting system has 33.33% win rate and rewards can be as twice up to 10x the amount of the bet amount (e.g. betting 500 will give you at least 1000 up to 5000 coin). The bet result will arrive a minute after you made the bet, but the bet amount will be instantly subtracted from your wallet. You will also need a bank to start betting (Won amounts are automatically transferred to your bank without taxes). The minimum bet amount is 500, while the maximum bet amount is 5000.
+<br><br>
+[Back to top](#mai-economy-currently-features)
 <br><br><br><br>
 ### Spending
 As of the moment, there has been no way to spend money yet (Except betting and paying for transaction charges/tax). This article will be updated soon as the commands for Economy spending system has ben put in place. There are also no works as of the moment for Mai's Economy's spending system.
@@ -52,7 +54,7 @@ As of the moment, there has been no way to spend money yet (Except betting and p
 
 <br><br>
 [Back to top](#mai-economy-currently-features)
-br><br><br><br>
+<br><br><br><br>
 ### Overflow
 
 <br><br>
