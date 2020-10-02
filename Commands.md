@@ -202,8 +202,12 @@ Command | Description | Archive Reason | Location |
 [Back to top](#Contents)
 <br><br><br>
 ## Removed
-Command | Description | Removal Reason |
---------|-------------|----------------|
+Command | category | Description | Removal Reason |
+--------|-------------|----------------|----------|
+`anitop` | anime | returns the top anime based on provided category (all-time, current-season)(Movie, TV, OVA) | Currently Broken (v3.0.0)
+`studio` | anime | returns some of the anime the provided studio has made | Unused command, API Heavy command (Calls on API multiple times to satisfy command conditions)
+
+ - All of the music command from the previous version, [2.4.0](https://github.com/maisans-maid/Mai/tree/2.4.0/commands/music), has been removed due to the hosting limitations of the bot. These commands, however, are almost complete (for the latest version) but will never be pushed unless the bot gets a proper hosting service. If you forked the latest (3.0.0) version and want to use the music feature, feel free to open an issue. I will create a branch for it if someone is interested once it is complete.
 
 
 [Back to top](#Contents)
