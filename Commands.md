@@ -134,7 +134,7 @@ Command | Parameters | Description | Example
 `mute` | User Mention | Mutes a user (gives the user the set mutedrole, see [setmutedrole](#Setup)) | `m!mute [@User]`
 `nuke` | None | Removes all the messages from the channel (Clones the channel and deletes the original) | `m!nuke`
 `removeroles` | User Mention | Removes all the roles the User has | `m!removeroles [@User]`
-`respond` | Message ID, Accept/Deny, Reason | Responds to a user's suggestion. This requires to have the server's suggest option enabled, see [setsuggestch](#Setup) and [suggest](#Core)
+`respond` | Message ID, Accept/Deny, Reason | Responds to a user's suggestion. This requires to have the server's suggest option enabled, see [setsuggestch](#Setup) and [suggest](#Core) | `m!respond [7263152435261723] [deny] [This suggestion violates the Discord ToS]`
 `softban` | User Mention | Kicks the user and deletes all his messages from the server | `m!softban [@User]`
 `unban` | User ID | Unbans any banned member from the server | `m!unban [627381928370453681]`
 `unmute` | User Mention | Unmutes a user (removes the set mutedrole from the user, see [setmutedrole](#Setup)) | `m!unmute [@User]` 
@@ -144,7 +144,10 @@ Command | Parameters | Description | Example
 ## Owner
 Command | Parameters | Description | Example
 --------|------------|-------------|--------
-
+`cleanup` | None | Clears all the list of finished/cancelled anime. see [Anischedule](https://github.com/maisans-maid/Mai/wiki/Anischedule) | `m!cleanup`
+`eval`    | Arbitrary Javascript Code | Executes the provided JS code | `m!eval [1 + 1]` 
+`fleave`  | Server ID | Forces the bot to leave the server based on the provided server ID | `m! fleave [6723645273066783124]`
+`reload`  | Command Name / Alias | 🛠️ Debugger Tool: Reloads the commands with changes without restarting the bot. | `m!reload cleanup`
 
 [Back to top](#Contents)
 <br><br><br>
