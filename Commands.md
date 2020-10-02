@@ -157,7 +157,7 @@ Command | Parameters | Description | Example
 `disableanisched` | None | Disables the [Anisched](https://github.com/maisans-maid/Mai/wiki/Anisched) feature on the server | `m!disableanisched`
 `economytoggle` | None | Toggles the economy system for the server on or off | `m!economytoggle`
 `setanischedch` | Channel Mention | Sets the mentioned channel as the [Anischedule](https://github.com/maisans-maid/Mai/wiki/Anisched) Channel for the server | `m!setanisched [#anime-airing!]`
-`setinvite` | Invite URL and Server Description | Set an invite link + description for your server to be advertised whenever the command [`invite`](#Core) is used. | `m!setinvite [https://discord.gg/hcyd72] [This server is for blah blah... (max 1024 char)]`
+`setinvite` | Invite URL and Server Description | Set an invite link + description for your server to be advertised whenever the command [`invite`](#Bot) is used. | `m!setinvite [https://discord.gg/hcyd72] [This server is for blah blah... (max 1024 char)]`
 `setmute` | Role ID / Role Mention | Sets the provided role resolvable to the Muted Role | `m!setmute [@Muted]`
 `setsuggestch` | Channel Mention | Sets the mentioned channel as the stream for suggest channel | `m!suggestchannel [#suggestions]`
 `unwatch` | [MyAnimeList](https://myanimelist.net) or [AniList](https://anilist.co) anime entry | Removes an anime show from the watchlist. see [Anisched](https://github.com/maisans-maid/Mai/wiki/Anisched) | `m!unwatch [https://anilist.co/anime/10782]`
@@ -175,6 +175,19 @@ Command | Parameters | Description | Example
 ## Utility
 Command | Parameters | Description | Example
 --------|------------|-------------|--------
+`avatar`
+`color`
+`define`
+`emoji`
+`jisho`
+`listrole`
+`lyrics`
+`permissionsfor`
+`reddit`
+`serverinfo`
+`steam`
+`time`
+`userinfo`
 
 
 [Back to top](#Contents)
@@ -183,7 +196,8 @@ Command | Parameters | Description | Example
 ## Archive
 Command | Description | Archive Reason |
 --------|-------------|----------------|
-
+`djs` | Query the discord.js documentation | Not Usable by normal users
+`quiz` | A fun quiz game for the server | Currently Broken
 
 [Back to top](#Contents)
 <br><br><br>
