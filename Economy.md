@@ -15,7 +15,7 @@ Mai's economy system is still young and in need for more ideas for proper econom
 <br><br>
 
 ### Earning
-Earning Currency from this bot isn't that hard, but the way to earn it isn't a lot either. The bot only have 4 ways to earn currencies, which are `beg`, `[bet](#Betting)`, `find`, and `daily` (see [Currency Commands](https://github.com/maisans-maid/Mai/wiki/Commands#Economy)). 
+Earning Currency from this bot isn't that hard, but the way to earn it isn't a lot either. The bot only have 4 ways to earn currencies, which are `beg`, [`bet`](#Betting), `find`, and `daily` (see [Currency Commands](https://github.com/maisans-maid/Mai/wiki/Commands#Economy)). 
 
 |  Source  |  Cooldown  |    Value    |
 |----------|------------|-------------|
