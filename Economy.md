@@ -1,6 +1,8 @@
 Mai's economy system is still young and in need for more ideas for proper economy implementation. 
 Mai's Economy System is Server-based and does not reflect your earnings in another server. Transferring coins from server to server is also not possible at this moment (though there are also no plans to implement this kind of feature soon).
 
+Economy is not `on` on default. A server administrator has to toggle this to enable the economy if the administrator wants it.
+
 ## Mai Economy currently Features
 
 - [Earning Currency Points](#Earning) (No Name as of Yet)
