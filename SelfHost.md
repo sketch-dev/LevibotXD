@@ -3,8 +3,8 @@ Mai Bot isn't designed to be self-hosted, though people have been forking the re
 ## Preparations
 ### 1. Installing [Node.js](https://nodejs.org/)
 To use discord.js (Mai Bot uses Discord.js to interact with the Discord API), you'll need to install Node.js. 
-| :warning: WARNING          |
-|:---------------------------|
+| ⚠️ WARNING ⚠️|
+|:-:|
 | If you do have Node installed, but have an older version (i.e. anything below 12.0), you should upgrade to the latest version. Discord.js v12 requires Node 12.0 or higher. |
 
 <br><br>
