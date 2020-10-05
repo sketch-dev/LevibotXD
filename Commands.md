@@ -204,7 +204,7 @@ Command | Description | Archive Reason | Location |
 ## Removed
 Removed Commands are [v2.4.0](https://github.com/maisans-maid/Mai/tree/2.4.0) commands that haven't made its way to the 3.0.0 (latest) update because of some various reasons. They are either WIP (Work-in-Progress) or will be entirely forgotten.
 Command | category | Description | Removal Reason | Status |
---------|-------------|----------------|----------|--------|
+--------|-------------|----------------|----------|:-:|
 `anitop` | anime | returns the top anime based on provided category (all-time, current-season)(Movie, TV, OVA) | Currently Broken (v3.0.0) | 🛠️
 `nsfw` | anime | Generates a random nsfw image based on the given criteria | No reason at all, just felt it doesn't fit with the bot | ☠️
 `studio` | anime | returns some of the anime the provided studio has made | Unused command, API Heavy command (Calls on API multiple times to satisfy command conditions) | ☠️
